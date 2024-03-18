@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {	
+}
+
+aside{
+	background-color:#d1d1d1;
+	position:fixed;
+}
+
+aside nav{	
+}
+
+aside nav section{
+	margin-left:7px;
+}
+
+aside nav section figure{
+	margin-bottom:20px;
+	padding-left:12px;
+}
+
+aside nav section ul{
+	list-style:none;
+	margin-left:auto;
+}
+
+aside nav section ul input{
+	margin-top:-10px;
+}	
+
+aside nav section ul li{
+}
+
+aside nav section ul li a{
+	text-decoration:none;
+}
+
+aside nav section ul li a:hover{
+}
+
+header{	
+	text-align:center;
+	color:#575859;	
+}
+
+header h1{	
+}
+
+article{
+	background-color:#D1D1D1;
+}
+
+#articlelogin{
+	margin-top:80px;
+	background-color:#4378b7;
+	border:1px solid black;
+	border-radius:5px;
+	color:white;
+}
+
+#campousuario, #camposenha{
+	font-size:24px;
+}
+
+#campousuarioinput, #camposenhainput{
+	font-size:16px;	
+}
+
+article table{
+}
+
+article table tbody{
+}
+
+article table tbody section{
+}
+
+article table tbody tr.cabecalho{
+}
+
+article table tbody tr{
+}
+
+article table tbody tr a{
+	text-decoration:none;
+}
+
+article section{
+	text-align:center;
+}
+
+article section a{
+	text-decoration:none;
+}
+
+article section form{
+}
+
+article section label{
+}
+
+article section input{
+}
+
+article section button{
+}
+
+article section p{
+}
+
+article section #nomedeguerra{
+
+}
+
